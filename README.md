@@ -1,6 +1,6 @@
 # Meme Reactions Database
 
-![reactions database]([image-url](https://i.imgur.com/jDpvRnc.png))
+![reactions database](https://i.imgur.com/jDpvRnc.png)
 
 ## Overview
 This is a database of meme reactions for professional or personal use. The collection is organized with carefully named files to enable easy and quick searching within the folder structure.
